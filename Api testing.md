@@ -7,9 +7,9 @@
 * **Ожидаемый статус-код:** `200 OK`
 * **Фактический результат:** Сервер корректно обработал запрос,пришёл смс код и ответ от сервера с кодом 200
 
-<img width="1919" height="1029" alt="tbank_post_status" src="https://github.com/user-attachments/assets/20fc60a8-3b10-4ffe-8c57-26cebc29ae66" />
+<img width="1919" height="1029" alt="tbank_post_status" src="https://github.com/user-attachments/assets/33741840-f346-4072-8f1f-7b90e6f9ed44" />
 
-<img width="1918" height="1025" alt="tbank_prewiev" src="https://github.com/user-attachments/assets/b52c4fd2-615a-4aff-90d4-abbb5b1a78ba" />
+<img width="1918" height="1025" alt="tbank_prewiev" src="https://github.com/user-attachments/assets/5964dbf3-a120-405e-a235-f2940bfad76e" />
 
 ## В данном разделе предоставлены примеры тестирования Api с помошью приложения **Postman**
 
