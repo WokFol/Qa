@@ -8,4 +8,10 @@
 
 <img width="1918" height="1027" alt="postman_get" src="https://github.com/user-attachments/assets/2e46754b-6618-4526-bd7c-9fb97344101a" />
 
-<img width="1919" height="1029" alt="postman_post" src="https://github.com/user-attachments/assets/dcbe772e-0a03-4a38-b40e-a52ef342a379" />
+### 🟡 2. POST-запрос (Создание данных)
+* **Цель теста:** Проверить успешное создание новой сущности (пользователя) на сервере.
+* **Ожидаемый статус-код:** `201 Created`
+* **Фактический результат** `401 Unauthorized`,Обращаемый ресурс требует Api-ключ для защиты от спама,сервер не пропустил запрос
+
+<img width="1916" height="1029" alt="postman_post" src="https://github.com/user-attachments/assets/737c54e8-30ae-4169-aadf-b3fd214f1fe1" />
+
